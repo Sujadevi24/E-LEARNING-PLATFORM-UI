@@ -1,0 +1,48 @@
+body{
+   width: 100%;
+   background:darkorchid;
+    background-position:center;
+   background-size:cover;
+   font-family:sans-serif;
+   margin-top:40px;
+   }
+body{
+   align-content: center;
+.card{
+   align-items: center;
+   position: center;
+   box-shadow:30px;
+   max-width:300px;
+   margin:auto;
+   textalign:center;
+   
+}
+.price{
+   align-items: center;
+   position: center;
+   color:blue;
+   font-size: 22px;
+}
+.card button{
+   position: center;
+   border:none ;
+   outline: 0;
+   padding: 12px;
+   color: black;
+   background-color:white;
+   text-align: center;
+   cursor: pointer;
+   width: 100%;
+   font-size: 18px;
+}
+.card button:hover{
+   position: center;
+   opacity: 0.7;
+}
+}
+
+
+
+
+  
+

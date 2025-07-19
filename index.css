@@ -1,0 +1,37 @@
+body{
+    background: darkorchid;
+    background-size : cover;
+}
+.navbar ul li{
+    list-style-type: none;
+    display: inline;
+    margin: 50px 45px 50px 45px;
+    float: right;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    text-transform: capitalize;
+    font-style: italic;
+}
+.navbar ul li a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+.btn{
+    position: relative;
+    top: 450px;
+    left: 600px;
+    padding: 10px;
+    border: none;
+    border-style:double;
+    background-color: mintcream;
+    border-radius: 10px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-style: italic;
+}
+.btn:hover{
+    opacity: 0.5;
+}
