@@ -35,11 +35,15 @@ Description:
 
 - *Styled and Interactive Multi-Page Interface:* A visually appealing and user-friendly interface that showcases course content, tracks progress, and embeds video lessons.
 
+  Benefits:
+
+Engaging Learning Experience: Interactive design elements and high-quality video content
+Improved User Experience: Intuitive navigation and responsive design
+Increased Accessibility: Accessible on various devices and platforms.
+
 # OUTPUT
 
 <img width="1352" height="654" alt="Image" src="https://github.com/user-attachments/assets/90b8471b-96ad-4c68-b9e9-886810a0314b" />
-
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/54f88371-7bc4-4918-867e-f25ba5baea34" />
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8a2dc90c-eea2-495a-ab43-93a00e7f93c9" />
 
@@ -59,9 +63,4 @@ Description:
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ee7198ef-8f06-48e5-bf09-a52584b6a196" />
 
-*Benefits:*
-
-- *Engaging Learning Experience:* Interactive design elements and high-quality video content
-- *Improved User Experience:* Intuitive navigation and responsive design
-- *Increased Accessibility:* Accessible on various devices and platforms
 
